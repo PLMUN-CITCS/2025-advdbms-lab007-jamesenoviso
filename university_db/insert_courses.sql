@@ -7,4 +7,4 @@ VALUES
    ('Calculus I'),
    ('Modern World History'),
    ('English Literature'),
-   ('Data Structures');
+
